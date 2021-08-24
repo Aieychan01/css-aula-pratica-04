@@ -1,0 +1,15 @@
+/*CSS 02/02*/
+body {
+    position: relative;
+    max-width: 100%;
+    max-height: 100%;
+}
+.primeira {
+    width: 500px;
+    height: 100px;
+    background-color: rgb(153, 152, 152);
+    position: absolute;
+    top: 20px;
+    left: 50%;
+    margin-left: -250px;
+}

@@ -1,0 +1,36 @@
+/*CSS 02/10*/
+* {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    position: relative;
+}
+
+.coluna1, .coluna2, .coluna3 {
+    width: 400px;
+    height: 500px;
+    text-align: center;
+}
+
+.coluna1 {
+    background-color: rgb(231, 178, 80);
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.coluna2 {
+    background-color: rgb(162, 196, 96);
+    position: absolute;
+    top: 0;
+    left: 400px;
+}
+
+.coluna3 {
+    background-color: rgb(194, 194, 88);
+    position: absolute;
+    top: 0;
+    left: 800px;
+}

@@ -1,0 +1,63 @@
+body {
+    max-width: 100%;
+    max-height: 100%;
+    
+}
+
+.cinza {
+    background-color: grey;
+    height: 200px;
+    width: 500px;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    margin-left: -250px;
+}
+
+.vermelho {
+    width: 300px;
+    height: 150px;
+    background-color: red;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    margin-left: -150px;
+}
+
+.azul {
+    width: 300px;
+    height: 50px;
+    background-color: blue;
+    position: absolute;
+    top: 150px;
+    left: 50%;
+    margin-left: -150px;
+}
+
+.verde {
+    background-color: green;
+    width: 260px;
+    height: 200px;
+    position: absolute;
+    top: 260px;
+    left: 50%;
+    margin-left: -250px;
+}
+
+.roxo {
+    background-color: indigo;
+    width: 200px;
+    height: 160px;
+    position: absolute;
+    top: 300px;
+    left: 50%;
+    margin-left: 50px;
+}
+
+.marron {
+    background-color: rgb(128, 87, 0);
+    width: 100%;
+    height: 100px;
+    position: absolute;
+    bottom: 30px;
+}

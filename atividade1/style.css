@@ -1,0 +1,53 @@
+/*CSS 01/01*/
+body{
+    max-width: 100%;
+    max-height: 100%;
+}
+#caixa_normal {
+    width: 400px;
+    background-color: #bf1f1f;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 28px;
+    color: white;
+}
+
+span {
+    color: blue;
+    font-size: 10px;
+}
+
+#caixa_com_box_model_10 {
+    width: 300px;
+    padding: 20px;
+    margin: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    text-align: left;
+    color: #4b0082;
+    background-color: #bf1f1f;
+    border: solid 2px #f5f5dc;
+}
+
+/*.centro {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}*/
+
+#caixa_com_box {
+    width: 345px;
+    padding: 20px;
+    margin: 15px;
+    border: dotted 7px rgb(139, 0, 139);
+    text-align: right;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -115px;
+    margin-left: -115px;
+    background-color: aliceblue;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-style: italic;
+    color: rgb(25, 25, 112);
+}
